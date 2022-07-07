@@ -13,6 +13,7 @@ Besides, it's not necessary to have a previous knowledge on Node.js, since we'll
 * [Resources](#resources)
 * [Getting Started](#getting-started)
 * [How did we do it?](#how-did-we-do-it)
+* [What Comes Next?](#what-comes-next)
 
 ## First Part Goal
 
