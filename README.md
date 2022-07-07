@@ -69,6 +69,6 @@ With all this in place, we just run `npm start` in the terminal and enjoy our AP
 
 Now we have an up and running API, but it actually just say "hello". So adding some more real world capabilities to it will be our next step.
 
-#### Other Parts Links
+#### Other Parts Links:
 - [Part 2](https://github.com/lucas-gustavoc/rest-api-tutorial-step2)
 - Part 3: *on the way...*
