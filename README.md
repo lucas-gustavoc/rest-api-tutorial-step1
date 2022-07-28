@@ -72,3 +72,4 @@ Now we have an up and running API, but it actually just say "hello". So adding s
 #### Other Parts Links:
 - [Part 2](https://github.com/lucas-gustavoc/rest-api-tutorial-step2)
 - [Part 3](https://github.com/lucas-gustavoc/rest-api-tutorial-step3)
+- [Part 4](https://github.com/lucas-gustavoc/rest-api-tutorial-step4)
